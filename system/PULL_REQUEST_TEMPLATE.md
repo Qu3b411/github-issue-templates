@@ -13,8 +13,8 @@ Contributors guide: ./CONTRIBUTING.md
 ##### Checklist
 <!-- Remove items that do not apply. For completed items, change [ ] to [x]. -->
 
-- [ ] `make -j4 test` (UNIX), or `vcbuild test` (Windows) passes
-- [ ] tests and/or benchmarks are included
+- [ ] `make sure it compiles with the provided compiler.bat, 
+- [ ] tests will be laied out soon, I have not gotten a test script done yet
 - [ ] documentation is changed or added
 - [ ] commit message follows [commit guidelines](./doc/guides/contributing/pull-requests.md#commit-message-guidelines)
 
